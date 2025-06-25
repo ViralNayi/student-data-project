@@ -6,6 +6,8 @@ This project involves analysis of data collected from 1000 students, covering va
 
 A **passive dashboard** was created using Microsoft Excel to visualize key insights through slicers, graphs, and charts.
 
+#kaggle #microsoft #msExcel #data_analysis
+
 ---
 
 ## 🧾 Dataset Overview
