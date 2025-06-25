@@ -1,5 +1,4 @@
 
-
 # 📊 Student Data Analysis Project
 
 This project involves analysis of data collected from 1000 students, covering various behavioral, lifestyle, and academic factors. The goal is to uncover patterns and generate insights that can help understand the impact of different variables (like sleep, study time, parental background, etc.) on academic performance.
